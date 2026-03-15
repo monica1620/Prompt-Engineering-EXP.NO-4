@@ -44,3 +44,6 @@ Everyday Functioning Prompts:
   (uploaded on top)
 
   RESULT:
+  This experiment demonstrates how different prompt types help in analyzing, understanding user perspectives, and explaining real-life applications.
+  Using structured prompts improves clarity and helps generate more relevant and meaningful responses from AI systems.
+  
